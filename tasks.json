@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Psych Project Update",
+        "deadline": "2025-02-20 22:00:00 UTC",
+        "urgency": 4
+    },
+    {
+        "name": "Psych Reading",
+        "deadline": "2025-02-20 22:00:00 UTC",
+        "urgency": 2
+    },
+    {
+        "name": "Tintern Abbey Assignment",
+        "deadline": "2025-02-21 04:00:00 UTC",
+        "urgency": 5
+    },
+    {
+        "name": "Prepare for REBREC Photoshoot",
+        "deadline": "2025-02-21 05:00:00 UTC",
+        "urgency": 3
+    },
+    {
+        "name": "ML 110 Assignment",
+        "deadline": "2025-02-22 02:00:00 UTC",
+        "urgency": 4
+    },
+    {
+        "name": "APUSH Catch-Up",
+        "deadline": "2025-02-23 00:00:00 UTC",
+        "urgency": 5
+    },
+    {
+        "name": "Review Paradise Lost: Summary and Passages",
+        "deadline": "2025-02-23 03:00:00 UTC",
+        "urgency": 4
+    },
+    {
+        "name": "Fix TODO List -> Open Faster",
+        "deadline": "2025-03-15 07:00:00 UTC",
+        "urgency": 1
+    }
+]
